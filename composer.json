@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/kapriz",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "33potolok",
+      "email": "33potolok@example.com"
+    }
+  ],
+  "require": {
+  }
+}
